@@ -1,1 +1,5 @@
-Hi, I'm Schmebb
+# Hi, I'm Schmebb
+
+I am a coder and I like music
+
+
