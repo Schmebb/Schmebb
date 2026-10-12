@@ -38,6 +38,7 @@ Also: MIPS Assembly
 ![Tailscale](https://www.readmecodegen.com/api/social-icon?name=tailscale&size=48 "Tailscale")
 ![Flask](https://www.readmecodegen.com/api/social-icon?name=flask&size=48 "Flask")
 ![Claude](https://www.readmecodegen.com/api/social-icon?name=claude&size=48 "Claude API")
+![Wrangler](wrangler.svg "Wrangler")
 
 **Operating Systems & Environments:**
 
