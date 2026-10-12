@@ -42,6 +42,7 @@ Also: MIPS Assembly
 **Operating Systems & Environments:**
 
 ![Windows](https://www.readmecodegen.com/api/social-icon?name=windows&size=48 "Windows")
+![Apple](https://www.readmecodegen.com/api/social-icon?name=apple&color=%23ffffff "Apple")
 ![Linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=48 "Linux")
 ![Ubuntu](https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=48 "Ubuntu Desktop & Server")
 
