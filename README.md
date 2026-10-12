@@ -2,7 +2,7 @@
 
 ## Experience
 
-I'm a third-year Business Science student specialising in Computer Science at the University of Cape Town (UCT). 
+I'm a third-year Science student majoring in Computer Science and Artificial Intelligence at the University of Cape Town (UCT). 
 
 My interests include backend and systems engineering, machine learning and AI, statistics and data, cyber security, and understanding things from first principles.
 
