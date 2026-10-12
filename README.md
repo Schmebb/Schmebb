@@ -1,7 +1,5 @@
 # Hi I'm Schmebb
 
-## Experience# Hi im schmebb
-
 ## Experience
 
 I'm a third-year Business Science student specialising in Computer Science at the University of Cape Town (UCT). 
