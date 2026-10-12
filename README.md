@@ -56,7 +56,7 @@ My interests include backend and systems engineering, machine learning and AI, s
 
 ##  Achievements
 
-- Deans merit list every year, BBusSci (Computer Science), UCT
+- Deans merit list every year, Bsc (Computer Science, AI), UCT
 
 <!-- TODO: add awards, scholarships, class medals, and olympiad results -->
 
